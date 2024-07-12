@@ -1,6 +1,6 @@
 
 const config = {
-    baseURL: 'http://localhost:5000'
+    baseURL: 'https://gamebackend-ddke.onrender.com'
   };
   
   export default config;
